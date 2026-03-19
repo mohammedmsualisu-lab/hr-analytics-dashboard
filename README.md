@@ -16,4 +16,4 @@ Compensation dashboard
 
 Author
 Mohammed Sualisu
-Data Analyst | Business Intelligence | Power BI Developer
+Agronomist | Data Analyst | Business Intelligence| Power BI Developer
